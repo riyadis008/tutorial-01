@@ -1,2 +1,0 @@
-# apap
-Untuk perkuliahan APAP.
